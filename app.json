@@ -1,0 +1,19 @@
+{
+  "appKey": "fW3zUc4TZzmHmdFD9vgWgllF3pBof3SQ",
+  "appSecret": "2BALlaksV4f2zx1dgvSBWcNSoEdyvPEr",
+  "projectId": 118,
+  "id": 237,
+  "name": "qqr",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/test1.git",
+    "isPrivate": 0,
+    "username": "Alex9a",
+    "password": "Aa6735629"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
